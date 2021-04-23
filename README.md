@@ -1,4 +1,4 @@
-### Hi there 👋 My name is [Mingfu Liang](https://wuyujack.github.io/) and I am a Ph.D. student from Northwestern University
+### Hi there 👋
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=wuyujack&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 <!--
